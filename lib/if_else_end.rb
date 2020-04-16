@@ -1,5 +1,5 @@
 # Write your solution here
-run_code_insice = TRUE
+run_code_insice = true
 puts "code before if...end"
 if run_code_insice
   puts "code inside"
