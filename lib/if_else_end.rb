@@ -16,7 +16,7 @@ end
 puts "don't forget the sunscreen"
 
 # ex3
-chance_of_rain = 0.3
+chance_of_rain = 0.8
 if chance_of_rain <= 0.25
   puts "pack a shelter"
 elsif (chance_of_rain >0.25 && chance_of_rain <0.75)
