@@ -24,3 +24,7 @@ elsif (chance_of_rain >0.25 && chance_of_rain <0.75)
 else
   puts "stay home and read LeGuin"
 end
+
+# ex4
+cur_time = Time.now
+if cur_time 
